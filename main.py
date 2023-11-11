@@ -16,21 +16,19 @@ else:
 #
 # python
 # Copy code
-# def spiral_order(matrix):
-#     result = []
-#     while matrix:
-#         result += matrix.pop(0)
-#
-#         if matrix and matrix[0]:
-#             for row in matrix:
-#                 result.append(row.pop())
-#         if matrix:
-#             result += matrix.pop()[::-1]
-#             print(result)
-#         if matrix and matrix[0]:
-#             for row in matrix[::-1]:
-#                 result.append(row.pop(0))
-#     return result
+def snail(snail_map):
+    result = []
+    while snail_map:
+        result += snail_map.pop(0)
+        if snail_map and snail_map[0]:
+            for row in snail_map:
+                result.append(row.pop())
+        if snail_map:
+            result += snail_map.pop()[::-1]
+        if snail_map and snail_map[0]:
+            for row in snail_map[::-1]:
+                result.append(row.pop(0))
+    return result
 #
 # # Example usage:
 # matrix = [
