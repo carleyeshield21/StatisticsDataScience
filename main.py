@@ -13,7 +13,6 @@ else:
     print('Small')
 
 # You can achieve this by traversing the array in a spiral order. Here's a Python function to do that:
-
 def snail(snail_map):
     result = []
     while snail_map:
