@@ -12,10 +12,8 @@ elif 200 >= x > 100:
 else:
     print('Small')
 
-# Certainly! You can achieve this by traversing the array in a spiral order. Here's a Python function to do that:
-#
-# python
-# Copy code
+# You can achieve this by traversing the array in a spiral order. Here's a Python function to do that:
+
 def snail(snail_map):
     result = []
     while snail_map:
@@ -29,16 +27,15 @@ def snail(snail_map):
             for row in snail_map[::-1]:
                 result.append(row.pop(0))
     return result
-#
-# # Example usage:
-# matrix = [
-#     [1, 2, 3],
-#     [4, 5, 6],
-#     [7, 8, 9]
-# ]
 
-# result = spiral_order(matrix)
-# print(result)
+ # Example usage:
+snail_map = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+result = snail(snail_map)
+print(result)
 
 # def print_hi(name):
 #     # Use a breakpoint in the code line below to debug your script.
