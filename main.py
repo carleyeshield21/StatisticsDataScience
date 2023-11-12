@@ -56,10 +56,18 @@
 my_range = range(1, 10, 2)
 
 # Convert the range to a list
-my_list = list(my_range)
+# my_list = list(my_range)
+#
+# # Display the list
+# print(my_list)
+#
+# list = list(range(0,11))
+# print(list)
 
-# Display the list
-print(my_list)
-
-list = list(range(0,11))
-print(list)
+import numpy
+import pandas
+import matplotlib
+import seaborn
+import sklearn
+import scipy
+# import statsmodels.api as sm
