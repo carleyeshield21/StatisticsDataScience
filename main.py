@@ -43,11 +43,23 @@
 #     print_hi('PyCharm')
 
 
-def distance_from_zero(num):
-    if type(num)==int:
-        print(abs(num))
-    else:
-        print('Not Possible')
+# def distance_from_zero(num):
+#     if type(num)==int:
+#         print(abs(num))
+#     else:
+#         print('Not Possible')
+#
+# distance_from_zero(-10)
+# distance_from_zero('cat')
 
-distance_from_zero(-10)
-distance_from_zero('cat')
+# Create a range object with start=1, stop=10, step=2
+my_range = range(1, 10, 2)
+
+# Convert the range to a list
+my_list = list(my_range)
+
+# Display the list
+print(my_list)
+
+list = list(range(0,11))
+print(list)
