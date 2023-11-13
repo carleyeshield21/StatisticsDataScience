@@ -71,3 +71,11 @@ import seaborn
 import sklearn
 import scipy
 import statsmodels.api as sm
+
+raw_data = pandas.read_csv('1.03.+Dummies.csv')
+raw_data
+data = raw_data.copy()
+data
+data['Attendance'] = data['Attendance'].map({'Yes': 1, 'No': 0})
+data
+print(data)
