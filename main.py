@@ -71,9 +71,14 @@ import seaborn
 import sklearn
 import scipy
 import statsmodels.api as sm
+import math
 
-raw_data = pandas.read_csv('1.03.+Dummies.csv')
-data = raw_data.copy()
-data['Attendance'] = data['Attendance'].map({'Yes': 1, 'No': 0})
-print(data)
-print('Ok')
+# raw_data = pandas.read_csv('1.03.+Dummies.csv')
+# data = raw_data.copy()
+# data['Attendance'] = data['Attendance'].map({'Yes': 1, 'No': 0})
+# print(data)
+# print('Ok')
+
+list = [12, 24, 37, 42, 55, 62, 72, 77, 246, 592]
+mean = numpy.mod(list)
+print(mean)
