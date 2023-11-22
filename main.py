@@ -101,6 +101,13 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 list = list.split(' ')
 num_list = [int(item) for item in list]
 sorted_num_list = sorted(num_list)
+print(sorted_num_list)
 
+# for index in range(1, len(sorted_num_list)-1):
+#     print(f'{sorted_num_list[index]}:{sorted_num_list[index+1]}')
+#     if (sorted_num_list[index+1] - sorted_num_list[index]) != 1:
+#         print(sorted_num_list[index] + 1)
 
+missing_nums = [sorted_num_list[index] + 1 for index in range(1, len(sorted_num_list)-1) if (sorted_num_list[index+1] - sorted_num_list[index]) != 1]
+print(missing_nums)
 
