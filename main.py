@@ -79,6 +79,20 @@ import math
 # print(data)
 # print('Ok')
 
-list = [12, 24, 37, 42, 55, 62, 72, 77, 246, 592]
-mean = numpy.mod(list)
-print(mean)
+# list = [12, 24, 37, 42, 55, 62, 72, 77, 246, 592]
+# mean = numpy.mod(list)
+# print(mean)
+
+
+# Python int
+python_integer = 42
+
+# NumPy int64
+numpy_int64 = numpy.int64(42)
+
+# Check types
+print(type(python_integer))  # <class 'int'>
+print(type(numpy_int64))     # <class 'numpy.int64'>
+
+print(python_integer==numpy_int64)
+
