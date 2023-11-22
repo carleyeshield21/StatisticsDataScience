@@ -112,3 +112,13 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 # print(missing_nums)
 # print(len(missing_nums))
 
+data = {'A': [1, 2, 3], 'B': [4, 5, 6], 'C': [7, 8, 9]}
+df = pandas.DataFrame(data)
+print(df)
+
+# Sum along the columns (axis=0)
+column_sums = df.sum(axis=0)
+
+print("Sum along columns:")
+print(column_sums)
+
