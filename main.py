@@ -100,5 +100,7 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 
 list = list.split(' ')
 num_list = [int(item) for item in list]
-print(num_list)
+sorted_num_list = sorted(num_list)
+
+
 
