@@ -123,8 +123,11 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 # print(column_sums)
 
 data = {'A': [1, 2, 3], 'B': [4, 5, 6], 'C': [7, 8, 9]}
-df = pd.DataFrame(data, index=['row1', 'row2', 'row3'])
+df = pandas.DataFrame(data, index=['row1', 'row2', 'row3'])
 
-# Access a single element
-element = df.loc['row1', 'A']
-print(element)
+# Access a single row using loc
+single_row = df.loc['row2']
+
+print("Single Row:")
+print(single_row)
+
