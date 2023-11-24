@@ -131,5 +131,5 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 # print("Single Row:")
 # print(single_row)
 
-for n in range(11):
-    print(n, end=',')
+for n in range(5,11):
+    print(n, end=' ')
