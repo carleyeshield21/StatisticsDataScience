@@ -134,6 +134,6 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 # for n in range(5,11):
 #     print(n, end=' ')
 
-m7 = lambda multiply_by_10: multiply_by_10*10
-result = m7(7)
-print(result)
+# m7 = lambda multiply_by_10: multiply_by_10*10
+# result = m7(7)
+# print(result)
