@@ -1,0 +1,23 @@
+mean=500; sd=100
+
+z1 = (570-500)/100 = 0.7 => B=0.2580; C=0.2420
+
+z2 = (515-500)/100 = 0.15 => B=0.0596; C=0.4404
+
+z3a = (520-500)/100 = 0.2 => B=0.0793; C=0.4207
+z3b = (540-500)/100 = 0.4 => B=0.1554; C=0.3446
+
+z4a = (520-500)/100 = 0.2 => B=0.0793; C=0.4207
+z4b = (470-500)/100 = -0.3 => B=0.1179; C=0.3821
+
+z5a = (550-500)/100 = 0.5 
+
+(a) Sketch a normal curve and shade in the target area(s) described by each of the following
+statements:
+(i) more than 570
+(ii) less than 515
+(iii) between 520 and 540
+(iv) between 470 and 520
+(v) more than 50 points above the mean
+(vi) more than 100 points either above or below the mean
+(vii) within 50 points either above or below the mean</RLLNL>
