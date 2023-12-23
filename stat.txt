@@ -1,42 +1,23 @@
-mean=500; sd=100
+**Using the PROPORTIONS (OF AREA) UNDER THE STANDARD NORMAL CURVE FOR VALUES OF z
 
-z1 = (570-500)/100 = 0.7 => B=0.2580; C=0.2420
+mean = 100; sd = 15
+Scores on the Wechsler Adult Intelligence Scale (WAIS) approximate a normal curve with a mean of 100 and a standard deviation of 15. What proportion of IQscores are:
 
-z2 = (515-500)/100 = 0.15 => B=0.0596; C=0.4404
+(a) above Kristen’s 125?
+(b) below 82?
+(c) within 9 points of the mean?
+(d) more than 40 points from the mean?
 
-z3a = (520-500)/100 = 0.2 => B=0.0793; C=0.4207
-z3b = (540-500)/100 = 0.4 => B=0.1554; C=0.3446
+a) z = (125-100)/15 = 1.67
+   proporion is 0.0475 or 0.0478
 
-z4a = (520-500)/100 = 0.2 => B=0.0793; C=0.4207
-z4b = (470-500)/100 = -0.3 => B=0.1179; C=0.3821
+b) z = (82-100)/15 = −1.2
+   prop is 0.1151
 
-z5a = (550-500)/100 = 0.5 
+c) z = (109-100)/15 = 0.6
+   prop is 0.2257*2 = 0.4514
 
-(a) Sketch a normal curve and shade in the target area(s) described by each of the following
-statements:
-(i) more than 570
-(ii) less than 515
-(iii) between 520 and 540
-(iv) between 470 and 520
-(v) more than 50 points above the mean
-(vi) more than 100 points either above or below the mean
-(vii) within 50 points either above or below the mean</RLLNL>
-
-z' = desired mean + z(desired sd)
-a. raw score = 24; mean = 20; sd = 5
-
-desired mean = 50; desired sd = 10
-z = (24-20)/5 = 0.8
-z' = 50 + (0.8*10) = 58
-
-desired mean = 100; desired sd = 15
-z' = 100 + (0.8*15) = 112
-
-desired mean = 500; desired sd = 100
-z' = 500 + (0.8*100) = 580
-
-
-
-
+d) z = (140-100)/15 = 2.67
+   prop is 0.4962
 
 
