@@ -21,3 +21,22 @@ statements:
 (v) more than 50 points above the mean
 (vi) more than 100 points either above or below the mean
 (vii) within 50 points either above or below the mean</RLLNL>
+
+z' = desired mean + z(desired sd)
+a. raw score = 24; mean = 20; sd = 5
+
+desired mean = 50; desired sd = 10
+z = (24-20)/5 = 0.8
+z' = 50 + (0.8*10) = 58
+
+desired mean = 100; desired sd = 15
+z' = 100 + (0.8*15) = 112
+
+desired mean = 500; desired sd = 100
+z' = 500 + (0.8*100) = 580
+
+
+
+
+
+
