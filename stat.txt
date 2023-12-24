@@ -34,6 +34,52 @@ z = (X-mean)/sd
 a) z = (960-1200)/120 = -2
    prop is 0.228
 
+b) z = (1500-1200)/120 = 2.5
+   prop is 0.0062
+
+c) z = (1250-1200)/120 = 0.42
+   prop is 0.1628 * 2 = 0.3256
+
+d) z1 = (1300-1200)/120 = 0.83
+   z2 = (1400-1200)/120 = 1.67
+   prop1 is 0.2967
+   prop2 is 0.4525
+   prop is 0.4525 - 0.2967 = 0.1558
+           0.2033 - 0.0475 = 0.1558
+
+
+IQ scores on the WAIS test approximate a normal curve with a mean of 100 and a standard deviation of 15. What IQ score is identified with
+(a) the upper 2 percent, that is, 2 percent to the right (and 98 percent to the left)?
+(b) the lower 10 percent?
+(c) the upper 60 percent?
+(d) the middle 95 percent? [Remember, the middle 95 percent straddles the line perpendicular to the mean (or the 50th percentile), with half of 95 percent, or 47.5 percent,
+above this line and the remaining 47.5 percent below this line.]
+(e) the middle 99 percent?
+
+mean = 100; sd = 15
+z = (X-mean)/sd
+X = (z*sd) + mean
+
+a) proportion = 0.02 
+   closest prop is 0.0202 from the table with a z score 2.05
+   X = (2.05 * 15) + 100 = 130.75
+
+b) proportion = 0.10
+   closest prop is 0.1003 from the table with a z score 
+   of -1.28
+   X = (-1.28 * 15) + 100 = 80.8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
