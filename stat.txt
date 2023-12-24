@@ -21,3 +21,34 @@ d) z = (140-100)/15 = 2.67
    prop is 0.0038
 
 
+Suppose that the burning times of electric light bulbs approximate a normal curve with a mean of 1200 hours and a standard deviation of 120 hours. What proportion
+of lights burn for
+(a) less than 960 hours?
+(b) more than 1500 hours?
+(c) within 50 hours of the mean?
+(d) between 1300 and 1400 hours?
+
+mean = 1200; sd = 120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
