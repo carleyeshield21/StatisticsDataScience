@@ -91,7 +91,15 @@ e) proportion = 0.01
    
 An investigator polls common cold sufferers, asking them to estimate the number of hours of physical discomfort caused by their most recent colds. Assume that their estimates approximate a normal curve with a mean of 83 hours and a standard deviation of 20 hours.
 
+z = (X - mean)/sd
+X = (z * sd) + 1200
+
 (a) What is the estimated number of hours for the shortest suffering 5 percent?
+
+prop = 0.05
+0.0505; z = -1.64
+X = (-1.6 * 20) + 83 = 51
+
 
 (b) What proportion of sufferers estimate that their colds lasted longer than 48 hours?
 
