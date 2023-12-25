@@ -116,6 +116,10 @@ proportion is 0.1357
 
 (d) What is the estimated number of hours suffered by the extreme 1 percent either above or below the mean?
 
+prop = 0.01
+X = (z * sd) + mean
+X1 = (-2.32 * 20) + 83 = 36.6
+X2 = (2.32 * 20) + 83 = 129.4
 
 
 (e) What proportion suffered for between 1 and 3 days, that is, between 24 and 72 hours?
