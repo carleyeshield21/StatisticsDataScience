@@ -103,9 +103,20 @@ X = (-1.6 * 20) + 83 = 51
 
 (b) What proportion of sufferers estimate that their colds lasted longer than 48 hours?
 
+z = (48 - 83 )/20= −1.75
+proportion is 0.4599, but we have to add 0.5 because we are
+including the lower half from the mean
+0.4599 + 0.5
+
 (c) What proportion suffered for fewer than 61 hours?
 
+z = (61 - 83)/20 = −1.1
+proportion is 0.1357
+
+
 (d) What is the estimated number of hours suffered by the extreme 1 percent either above or below the mean?
+
+
 
 (e) What proportion suffered for between 1 and 3 days, that is, between 24 and 72 hours?
 
