@@ -136,7 +136,6 @@ proportion of 0.025 that has a z score of 1.96 and -1.96
 X1 = (1.96 * 20) + 83 = 122.2
 X2 = (-1.96 * 20) + 83 = 43.8
 
-
 (g) What proportion suffered for between 2 and 4 days?
 
 (h) A medical researcher wishes to concentrate on the 20 percent who suffered the most. She will work only with those who estimate that they suffered for more than ——— hours.
