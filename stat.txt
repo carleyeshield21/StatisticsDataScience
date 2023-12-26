@@ -146,8 +146,17 @@ prop 0.7422−0.0401 = 0.7021
 
 (h) A medical researcher wishes to concentrate on the 20 percent who suffered the most. She will work only with those who estimate that they suffered for more than ——— hours.
 
-prop 0.8 with a z score of 0.8416
-X = (0.8416 * 20) + 83 = 99.832
+Answer:
+This means that the proportion being asked is 80% of 
+the distribution from the left side or 0.8, that means that 
+0.5 + 0.3 = 0.8, we have two variables, for 0.5 and for 0.3
+proportions, we only have to get the 0.3 distribution
+
+*for 0.3 proportion from the table the closes proportion is
+0.2995 has z = 0.84 and 0.3023 has z = 0.85, we will use
+0.84
+X2 = (0.84 * 20) + 83 = 99.8
+
 
 (i) Another researcher wishes to compare those who suffered least with those who suffered most. If each group is to consist of only the extreme 3 percent, the mild group will consist of those who suffered for fewer than _____ hours, and the severe group will consist of those who suffered for more than _____ hours.
 
