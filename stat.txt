@@ -166,6 +166,12 @@ X2 = (-1.87 * 20) + 83 = 45.6
 
 (j) Another survey found that people with colds who took daily doses of vitamin C suffered, on the average, for 61 hours. What proportion of the original survey (with a mean
 of 83 hours and a standard deviation of 20 hours) suffered for more than 61 hours?
+Answer:
+Z = (61 - 83)/20 = −1.1
+proportion of 0.1357, but what is being asked is what is the
+proportion more than this value, so we have to subtract this
+from 1
+proportion is 1 - 0.1357 = 0.8643
 
 (k) What proportion of the original survey suffered for exactly 61 hours? (Be careful!)
 
