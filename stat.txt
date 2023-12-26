@@ -130,6 +130,13 @@ total prop = 0.4984 - 0.2088 = 0.2896
 
 (f) What is the estimated number of hours suffered by the middle 95 percent? [See thecomment about “middle 95 percent” in Question 5.13(d).]
 
+middle 95% means there is 2.5% on either side which gives a 
+proportion of 0.025 that has a z score of 1.96 and -1.96
+
+X1 = (1.96 * 20) + 83 = 122.2
+X2 = (-1.96 * 20) + 83 = 43.8
+
+
 (g) What proportion suffered for between 2 and 4 days?
 
 (h) A medical researcher wishes to concentrate on the 20 percent who suffered the most. She will work only with those who estimate that they suffered for more than ——— hours.
