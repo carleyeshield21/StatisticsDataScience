@@ -189,8 +189,13 @@ X = (z * sd) + mean
 
 
 Admission to a state university depends partially on the applicant’s high school GPA. Assume that the applicants’ GPAs approximate a normal curve with a mean of 3.20 and a standard deviation of 0.30.
+mean = 3.2; sd = 0.3
+z = (X - mean)/sd
+X = (z * sd) + mean
 
 (a) If applicants with GPAs of 3.50 or above are automatically admitted, what proportion of applicants will be in this category?
+Answer:
+Z = 
 
 (b) If applicants with GPAs of 2.50 or below are automatically denied admission, what proportion of applicants will be in this category?
 
