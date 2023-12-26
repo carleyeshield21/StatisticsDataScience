@@ -138,7 +138,16 @@ X2 = (-1.96 * 20) + 83 = 43.8
 
 (g) What proportion suffered for between 2 and 4 days?
 
+2 days = 48 hrs; 4 days = 96 hrs
+
+Z1 = (48 - 83)/20 = −1.75 prop of 0.0401
+Z2 = (96 - 83)/20 = 0.65 prop of 0.2422 + 0.5
+prop 0.7422−0.0401 = 0.7021
+
 (h) A medical researcher wishes to concentrate on the 20 percent who suffered the most. She will work only with those who estimate that they suffered for more than ——— hours.
+
+prop 0.8 with a z score of 0.8416
+X = (0.8416 * 20) + 83 = 99.832
 
 (i) Another researcher wishes to compare those who suffered least with those who suffered most. If each group is to consist of only the extreme 3 percent, the mild group will consist of those who suffered for fewer than _____ hours, and the severe group will consist of those who suffered for more than _____ hours.
 
