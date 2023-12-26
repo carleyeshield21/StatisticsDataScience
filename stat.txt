@@ -124,6 +124,10 @@ X2 = (2.32 * 20) + 83 = 129.4
 
 (e) What proportion suffered for between 1 and 3 days, that is, between 24 and 72 hours?
 
+z1 = (24 - 83)/20 = −2.95 prop of 0.4984
+z2 = (72 - 83)/20 = −0.55 prop of 0.2088
+total prop = 0.4984 - 0.2088 = 0.2896
+
 (f) What is the estimated number of hours suffered by the middle 95 percent? [See thecomment about “middle 95 percent” in Question 5.13(d).]
 
 (g) What proportion suffered for between 2 and 4 days?
