@@ -174,6 +174,9 @@ from 1
 proportion is 1 - 0.1357 = 0.8643
 
 (k) What proportion of the original survey suffered for exactly 61 hours? (Be careful!)
+Z = (61 - 83)/20 = −1.1
+0 since exactly 61 equals 61.000 etc. to infinity, a point along the base of the
+normal curve that is associated with no area under the normal curve.
 
 mean = 83 hrs; sd = 20 hrs
 
