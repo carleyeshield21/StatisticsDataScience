@@ -204,8 +204,57 @@ z = (2.5 - 3.2)/0.3 = −2.33 proportion of 0.4901
 0.5 - 0.4901 = 0.0099
 
 (c) A special honors program is open to all applicants with GPAs of 3.75 or better. What proportion of applicants are eligible?
+Answer:
+z = (X - mean)/sd
+  = (3.75 - 3.2)/0.3 = 1.83
+proportion is 0.0336
 
 (d) If the special honors program is limited to students whose GPAs rank in the upper 10 percent, what will Brittany’s GPA have to be for admission to this program?
+Answer:
+proportion is 90% which 0.5 + 0.4 or 0.1 from the right side
+we will use 0.1003 with z = 1.28
+X = (z*sd) + mean
+X = (1.28 * 0.3) + 3.2 = 3.584
+
+
+For each of the following scores, convert into transformed z scores with means and standard deviations of 50 and 10, of 100 and 15, and of 500 and 100, respectively.
+
+z' = desired mean + (z * desired standard deviation)
+
+(a) score of 34 in distribution with a mean of 41 and a standard deviation of 5
+Answer:
+X = 34; mean = 41; sd = 5
+z = (X - mean)/sd
+z = (34 - 41)/5 = −1.4
+
+z1 = 50 + (-1.4 * 10) = 36 => (36−50)/50 = −0.28
+z2 = 100 + (-1.4 * 15) = 79 => (79-100)/100 = −0.2658
+z3 = 500 + (-1.4 * 100) = 360 => (360-500)/500 =  −0.28
+
+(b) score of 880 in a distribution with a mean of 700 and a standard deviation of 120
+z = (880 - 700)/120 = 1.5
+
+z1 = 50 + (1.5 * 10) = 65 => (65-50)/50 = 0.3
+
+(c) score of −3 in a distribution with a mean of 12 and a standard deviation of 10
+
+
+What is the transformed z-score with a mean of 41 and a raw score of 34, a standard deviation of 5 for a desired mean of 100 and a desired standard deviation of 15?
+
+z = (X - mean)/sd = (24-20)/5 = 0.8
+z' = 50 + (0.8 * 10) = 58
+(58-50)/58
+
+
+
+
+
+
+
+
+
+
+
 
 
 
