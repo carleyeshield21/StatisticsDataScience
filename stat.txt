@@ -1,6 +1,4 @@
-(a) More densely populated areas have higher crime rates.
-pos
-(b) Schoolchildren who often watch TV perform more poorly on academic achievement tests. neg
-(c) Heavier automobiles yield poorer gas mileage. neg
-(d) Better-educated people have higher incomes. pos
-(e) More anxious people voluntarily spend more time performing a simple repetitive task. pos
+(a) caloric intake and body weight
+(b) height and weight
+(c) SAT math score and score on a calculus test
+(d) poverty and crime
