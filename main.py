@@ -170,7 +170,8 @@ list = '626 58 557 232 589 221 899 144 348 193 593 406 213 462 510 103 388 725 6
 # 89]
 
 # a = '91 87 95 123 98 110 112 85 96 71 80 69 109 90 84 75 105 100 99 94 90 79 86 90 93 95 100 98 80 104 77 108 90 103 89'
-# a_list = a.split(' ')
-# num_split = [numpy.int64(num) for num in a_list]
-# print(len(num_split))
-# print(sorted(num_split))
+a = '18 15 22 19 18 17 18 20 17 12 16 16 17 21 23 18 20 21 20 20 15 18 17 19 20 23 22 10 17 19 19 21 20 18 18 24 11 19 31 16 17 15 19 20 18 18 40 18 19 16'
+a_list = a.split(' ')
+num_split = [numpy.int64(num) for num in a_list]
+print(len(num_split))
+print(sorted(num_split))
